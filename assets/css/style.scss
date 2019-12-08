@@ -1,0 +1,44 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.wrapper {
+  width:1060px;
+  margin:0 auto;
+}
+
+header {
+  width:270px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+section {
+  width:750px;
+  // width:100px;
+  float:right;
+  padding-bottom:50px;
+}
+
+.navigation {
+  width: 200px; /* Set a width if you like */
+}
+
+.navigation a {
+  font-size: 18pt;
+  color: #222;
+  display: block;
+  padding-bottom: 12px;
+  text-decoration: none;
+}
+
+.navigation a:hover {
+  color: #069;
+}
+
+.navigation a.active {
+  color: #069;
+  font-weight: bold;
+}
