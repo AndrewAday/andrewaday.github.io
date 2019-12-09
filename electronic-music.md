@@ -1,6 +1,8 @@
 ## Philip Glass - Two Pages
 
-<iframe width="750" height="420" src="https://www.youtube.com/embed/H35gPwX_o54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe width="100%" height="auto" src="https://www.youtube.com/embed/H35gPwX_o54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 _Two Pages_ was one of Glass's first experiments with additive and subtractive procedure--there is no harmonic  structure, only a single 5-note motif which is spliced, added, and subtracted upon. Melody and rhythm coalesce into one, such that upon listening one hears the additive and subtractive procedures themselves, operating upon a nucleus of sound and permuting it into something whole, organic. With this piece and the few others composed during the same period (_Music in Fifths_, _Music in Contrary Motion_, _Music in Similar Motion_), a new language of music was conceived.
 
@@ -18,8 +20,10 @@ The piece is divided into 5 parts, and in each part I experiment with a differen
 
 5. Finale. Randomized filter cutoffs, wavetable synthesis, FM synthesis, detuned saw wave lead, and use of de-synced high-pass + low-pass + band-pass filters in tandem.
 
-# Terry Riley - In C
+## Terry Riley - In C
 
-<iframe width="750" height="420" src="https://www.youtube.com/embed/6zIP0tvg9L0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe width="750" height="420" src="https://www.youtube.com/embed/6zIP0tvg9L0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 My first project in ChucK. A ChucK program sequences MIDI data and orchestrates when each virtual player moves onto the next pattern (The probability a player repeats a pattern or moves on is determined by a logistic function, weighted according to the length of the pattern). [Source code](https://github.com/AndrewAday/ChucK-Projects)
