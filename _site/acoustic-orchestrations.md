@@ -19,14 +19,14 @@ During mixing I consolidated the recordings down to the following 5 microphones,
 | Neumann KM 184s | Above hammers   | Percussive and biting, useful for adding edge to the sound. |
 | Telefunken AR70 | Above strings, under lid      | Like gold and honey. The virtuous mean. |
 | Schoeps MK 2s | 5ft away | Reverberant like in a hall, but not distant. A spacious sound that still has its body. |  
-| Neumann U87 + Royer 121 | Far wall | These two mikes were our mid-side pair. Ambience and echoes. This one captured more the sound of the room than the piano. |  
+| Neumann U87 + Royer 121 | Far wall | These two mics were our mid-side pair. Ambience and echoes. This one captured more the sound of the room than the piano. |  
 
 Without further ado, here are the recordings and their mix sessions! (No EQ, compression, reverb, or any other plugins, just volume automation of the microphones' natural sounds)
 
 ## Strauss - Morgen
 
 <div class="video-wrapper">
-  <iframe width="750" height="420" src="https://www.youtube.com/embed/IL8WR93EraU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/IL8WR93EraU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ![Morgen Session](/assets/images/morgen_session.png)
@@ -34,7 +34,7 @@ Without further ado, here are the recordings and their mix sessions! (No EQ, com
 ## Scriabin - Desir
 
 <div class="video-wrapper">
-  <iframe width="750" height="420" src="https://www.youtube.com/embed/bZaVHIlsF4c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/bZaVHIlsF4c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ![Desir Session](/assets/images/desir_session.png)

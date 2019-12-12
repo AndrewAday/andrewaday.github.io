@@ -26,7 +26,7 @@ Without further ado, here are the recordings and their mix sessions! (No EQ, com
 ## Strauss - Morgen
 
 <div class="video-wrapper">
-  <iframe width="750" height="420" src="https://www.youtube.com/embed/IL8WR93EraU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/IL8WR93EraU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ![Morgen Session](/assets/images/morgen_session.png)
@@ -34,7 +34,7 @@ Without further ado, here are the recordings and their mix sessions! (No EQ, com
 ## Scriabin - Desir
 
 <div class="video-wrapper">
-  <iframe width="750" height="420" src="https://www.youtube.com/embed/bZaVHIlsF4c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/bZaVHIlsF4c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ![Desir Session](/assets/images/desir_session.png)
