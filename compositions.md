@@ -1,3 +1,11 @@
+## Rhythm Study I
+
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/WKp9X6dJrIg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+This piece is a study in structuring and developing polyrhythms. Alongside an accelerating heartbeat baseline, there are three drum lines, each with a distinct timbre, and each beginning from a rhythmic nucleus of duplets, triplets, and quintuplets, respectively. These patterns evolve through a series of mutations and replications until reaching a final 30-beat pattern in double time. As they evolve, they are systematically layered and un-layered against each other, so that the entire piece may be roughly divided into 4 parts which are built upon the polyrhythms 3:2, 5:3, 5:2, and 5:3:2.  
+
 ## Music for Dawn
 
 <div class="video-wrapper">
