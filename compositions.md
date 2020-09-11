@@ -1,3 +1,11 @@
+## Harmony Study I
+
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/nglPLNdg1gI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+An experiment in unifying harmonic and rhythmic structure via integration of harmonic and rhythmic processes. Two types of process are explored: additive and cyclic.
+
 ## Rhythm Study I
 
 <div class="video-wrapper">
