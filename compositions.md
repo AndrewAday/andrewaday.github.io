@@ -1,3 +1,13 @@
+## Music in Granular Motion
+
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/UArDczyDbeI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Final project for [M220b: Compositional Algorithms](https://ccrma.stanford.edu/courses/220b-winter-2021/) taught by professor Ge Wang.
+
+Documentation and code can be found **[here](https://ccrma.stanford.edu/~azaday/220b/hw3/)**.
+
 ## Harmony Study I
 
 <div class="video-wrapper">
